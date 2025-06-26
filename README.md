@@ -1,2 +1,2 @@
 # pratica-guiada-lista
-Uma lisa de usuários e produtos
+Uma lista de usuários e produtos 🧾
